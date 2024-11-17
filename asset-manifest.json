@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nom-du-repo/static/css/main.f5c75978.css",
-    "main.js": "/nom-du-repo/static/js/main.c266f331.js",
-    "static/js/453.c3c1ea4e.chunk.js": "/nom-du-repo/static/js/453.c3c1ea4e.chunk.js",
-    "index.html": "/nom-du-repo/index.html",
-    "main.f5c75978.css.map": "/nom-du-repo/static/css/main.f5c75978.css.map",
-    "main.c266f331.js.map": "/nom-du-repo/static/js/main.c266f331.js.map",
-    "453.c3c1ea4e.chunk.js.map": "/nom-du-repo/static/js/453.c3c1ea4e.chunk.js.map"
+    "main.css": "/gym/static/css/main.f5c75978.css",
+    "main.js": "/gym/static/js/main.e5f0b3a7.js",
+    "static/js/453.c3c1ea4e.chunk.js": "/gym/static/js/453.c3c1ea4e.chunk.js",
+    "index.html": "/gym/index.html",
+    "main.f5c75978.css.map": "/gym/static/css/main.f5c75978.css.map",
+    "main.e5f0b3a7.js.map": "/gym/static/js/main.e5f0b3a7.js.map",
+    "453.c3c1ea4e.chunk.js.map": "/gym/static/js/453.c3c1ea4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5c75978.css",
-    "static/js/main.c266f331.js"
+    "static/js/main.e5f0b3a7.js"
   ]
 }
